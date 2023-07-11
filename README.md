@@ -1,2 +1,2 @@
 # ThrivingEarthOlympia
-Scripts to summarize observation data
+Scripts to summarize ibutton measurements.
